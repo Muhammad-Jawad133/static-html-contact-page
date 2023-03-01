@@ -1,0 +1,2 @@
+Project Title: == Contact form
+Description: == Due to short timing I have created this form only for desktop screen and tab screen, I've use font awesome icons 4.7(version) and I have'nt localize the font's, because it's an only static  html.
